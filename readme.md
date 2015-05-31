@@ -25,5 +25,7 @@ Requires Python 2.7
 - Configured for `Python` on `Preconfigured for Docker` platform in AWS Elastic Beanstalk
 - Upload and deploy the `aws` directory **as a `.zip`** file to application console
 
+Currently running at: http://rss-reader.elasticbeanstalk.com
+
 ## Contact
 mourjo.sen@inria.fr
