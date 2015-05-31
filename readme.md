@@ -28,4 +28,4 @@ Requires Python 2.7
 Currently running at: http://rss-reader.elasticbeanstalk.com
 
 ## Contact
-mourjo.sen@inria.fr
+- mourjo.sen@inria.fr
